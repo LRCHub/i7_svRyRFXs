@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "またあえる日まで",
+  "base_artist": "ゆず",
+  "createdAt": "2026-03-12T15:11:28.539552Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "またあえる日まで",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/01_またあえる日まで_ゆず.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "またあえる日まで",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/02_またあえる日まで_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "またあえる日まで (2003年3月8日公開 映画ドラえもん 『のび太とふしぎ風使い』より)",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/03_またあえる日まで_(2003年3月8日公開_映画ドラえもん_『のび太とふしぎ風使い』より)_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "またあえる日まで (ドラえもん ED)",
+      "artist": "kanno Yutaka",
+      "has_synced": false,
+      "path": "select/04_またあえる日まで_(ドラえもん_ED)_kanno_Yutaka.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "またあえる日まで (ED)",
+      "artist": "菅野穣 & mu-ray",
+      "has_synced": false,
+      "path": "select/05_またあえる日まで_(ED)_菅野穣_&_mu-ray.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "またあえる日まで",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_またあえる日まで_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "またあえる日まで",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_またあえる日まで_ゆず.txt"
+    }
+  ]
+}
